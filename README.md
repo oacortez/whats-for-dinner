@@ -23,7 +23,7 @@ Whats for Dinner is a website where it helps users get a suggestion when selecti
 
 
 ## Features
-##Main page :
+Main page :
 * When the page loads the user will see two boxes. The left box will display our 4 selection buttons and as well a especial button called "Lets Cook!". The right box will display an image of a cooking pot
 * Once the user selects one of the four options on the left. The user must sumbit the answer by clicking the "Lets Cook!" button.
 * Once the user clicks the "Lets Cook!" Button the image on the right will disappear and will give you a answer based on one of the 4 selections the user submitted.
@@ -48,11 +48,6 @@ Install instructions :
 1. Fork this repo
 2. Clone the repo to your local machine
 3. View the project in the browser by running open index.html in your terminal
-
-
-
-## Contributors
-  - [Oscar Cortez Barrientos](https://github.com/oacortez)
 
 
 ## Challenges
