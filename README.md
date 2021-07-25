@@ -31,7 +31,9 @@ Main page :
 * Note that when the user recieves a generated dish they will not be able to to select another dish until the user clicks on the clear button.
 
 ## Illustrations
-
+<img width="1440" alt="Screen Shot 2021-07-25 at 5 09 15 PM" src="https://user-images.githubusercontent.com/61717746/126916414-a5a4da30-fe27-4390-8355-dca9c6a52ace.png">
+<img width="1440" alt="Screen Shot 2021-07-25 at 5 09 32 PM" src="https://user-images.githubusercontent.com/61717746/126916468-a3b97b7e-d768-48e1-8f50-8615c903fcb9.png">
+<img width="1440" alt="Screen Shot 2021-07-25 at 5 09 45 PM" src="https://user-images.githubusercontent.com/61717746/126916472-b0bbf6e6-c7df-48b8-b549-9a9ed54d82f2.png">
 
 
 ## Deployment Link
