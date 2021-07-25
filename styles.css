@@ -1,18 +1,8 @@
-/* font-family: 'Roboto', sans-serif;
-
-COLORS
-teal - #0fb9b1;
-frosted white - rgba(225, 225, 225, .9);
-grey - #95a5a6;
-red - #ee5253
-
-*/
 * {
   box-sizing: border-box;
   padding: 0;
   margin: 0;
   font-family: 'Roboto', sans-serif;
-  /* border: 1px green solid; */
 }
 
 
@@ -39,6 +29,7 @@ header {
   max-height: 3.5rem;
 }
 
+
 main {
   display: flex;
   justify-content: space-around;
@@ -46,10 +37,6 @@ main {
   flex-wrap: wrap;
   height: 65%;
   padding: .3 0;
-  /* background: url(assets/burger-friends.jpg);
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-attachment: fixed; */
 }
 
 
@@ -57,37 +44,34 @@ h1 {
   font-size: 1.3rem;
 }
 
+
 form {
   display: flex;
   flex-direction: column;
 }
 
+
 h2 {
   height: 2.5rem;
   display: inline-flex;
-  /* position: absolute; */
 }
 
 .add-a-recipe-button,
 .lets-cook-button {
-  /* text-align: justify; */
   height: 1.875rem;
   padding: 0.938rem;
   padding-top: 0.5rem;
-  border-radius: 3px; // <- dont replace with rem
+  border-radius: 3px;
   border-style: inherit;
   border: 0;
 }
-
-/* .add-a-recipe-button {
-  margin-right: 20px;
-} */
 
 
 .lets-cook-button {
   background-color: #0fb9b1;
   width: 14em;
 }
+
 
 section {
   display: flex;
@@ -96,9 +80,8 @@ section {
   background-color: rgba(225, 225, 225, .9);
   height: 23rem;
   width: 23rem;
-  /* min-width: 20rem; */
-  /* margin: 40px; */
 }
+
 
 label {
   padding: 0.7rem;
@@ -114,15 +97,17 @@ label {
   padding: 1.8rem;
 }
 
+
 .dish-container {
   text-align: center;
   align-items: center;
 }
 
+
 .menu-selection {
   text-align: left;
-
 }
+
 
 .recipe-text{
   font-size: large;
@@ -131,6 +116,7 @@ label {
 
 }
 
+
 .display-recipe {
   font-weight: bold;
   font-size: xx-large;
@@ -138,26 +124,24 @@ label {
   flex-grow: .4;
 }
 
+
 .delete-recipe-button{
-  height: 30px;
-  border-radius: 5px;
+  height: 1.875rem;
+  border-radius: 0.313rem;
   background-color: #95a5a6;
   color: rgba(225, 225, 225, .9);
   border: 0;
   align-self: flex-end;
   float: right;
-  margin-bottom: 7px;
-  margin-right: 31px;
-  width: 65px;
+  margin-bottom: 0.438rem;
+  margin-right: 1.938rem;
+  width: 4.063rem;
 }
 
+
 img {
-  /* display: flex; */
-  /* justify-content: space-around; */
-  /* align-self: center; */
   height: 20vh;
   width: 20vw;
-  /* margin-top: 75px; */
 }
 
 
